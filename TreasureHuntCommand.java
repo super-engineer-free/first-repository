@@ -302,10 +302,17 @@ public void entitiesSpawn(Player player) {
       Entity entity = Objects.requireNonNull(location.getWorld()).spawnEntity(location,entityType);
 
       if (entity instanceof emerald emerald) {
+<<<<<<< HEAD
         rabbit.setInvulnerable(true);
         rabbit.setAI(false);
         rabbit.setPersistent(true);
         rabbit.setRemoveWhenFarAway(false);
+=======
+        DIAMOND.setInvulnerable(true);
+        DIAMOND.setAI(false);
+        DIAMOND.setPersistent(true);
+        DIAMOND.setRemoveWhenFarAway(false);
+>>>>>>> 18e009a (コード完成させたい)
       }
 
       spawnEntityList.add(entity);
