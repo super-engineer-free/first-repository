@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TreasureHunt 15.55.58.TreasureHunt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TreasureHunt 15.55.58.TreasureHunt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TreasureHunt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TreasureHunt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin.TreasureHunt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin.TreasureHunt.main.iml" />
+    </modules>
+  </component>
+</project>
